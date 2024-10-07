@@ -108,10 +108,10 @@ streamlit run app.py
 
 The following image shows the comparison between the predicted values and the actual values:
 
-Air Quality dataset (link):
+Air Quality dataset ([link](https://archive.ics.uci.edu/dataset/360/air+quality)):
 ![Predictions vs Actual AQ](output/aq_predictions.png)
 
-Store Sales dataset (link):
+Store Sales dataset ([link](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data)):
 ![Predictions vs Actual Sales](output/sales_predictions.png)
 
 ## Code Overview
